@@ -1,14 +1,16 @@
 [![MasterHead](https://user-images.githubusercontent.com/95478989/198955082-6e78ebb5-e1e4-49f9-8d32-6e5af3984dcd.gif)](https://MuhdTaha.io)
 
 <h1 align="center">Hello there! 👋 I'm Muhammad Taha</h1>
-<h3 align="center"> Computer Science student and Developer seeking to expand my skills and contribute to innovative projects.</h3>
+<h3 align="center"> Computer Science undergraduate and Developer seeking to expand my skills and contribute to innovative projects.</h3>
 <img align="right" alt="Coding" width="400" src="https://media3.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif?cid=ecf05e476megqo3018yis03d6bwanhbvapevwa48ps97n921&ep=v1_gifs_search&rid=giphy.gif&ct=g">
 
 - 🎓 CS-SWE Undergraduate at University of Illinois at Chicago
 
 - 🌱 I’m currently learning **Kotlin, Android App Development**
 
-- 👨‍💻 All of my projects are available at [muhdtaha](muhdtaha)
+- 📱Currently working on [Recipe Radar](https://github.com/MuhdTaha/RecipeRadar) - a modern and dynamic food recipe app using MVVM Architecture with Kotlin in Android.
+
+- 👨‍💻 All of my projects are available [here]((https://github.com/MuhdTaha?tab=repositories)).
 
 - 📫 How to reach me: **muhd.taha@outlook.com**
 
