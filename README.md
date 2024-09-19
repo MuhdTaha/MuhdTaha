@@ -10,7 +10,7 @@
 
 - 📱Currently working on [Recipe Radar](https://github.com/MuhdTaha/RecipeRadar) - a modern and dynamic food recipe app using MVVM Architecture with Kotlin in Android.
 
-- 👨‍💻 All of my projects are available [here]((https://github.com/MuhdTaha?tab=repositories)).
+- 👨‍💻 All of my projects are available [here](https://github.com/MuhdTaha?tab=repositories).
 
 - 📫 How to reach me: **muhd.taha@outlook.com**
 
