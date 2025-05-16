@@ -6,11 +6,11 @@
 
 - 🎓 CS-SWE Undergraduate at University of Illinois at Chicago
 
-- 🌱 I’m currently learning **Kotlin, Android App Development**
+- 🌱 I’m currently learning **Fullstack Web Development using DevOps and Cloud Tools**
 
-- 📱Currently working on [Recipe Radar](https://github.com/MuhdTaha/RecipeRadar) - a modern and dynamic food recipe app using MVVM Architecture with Kotlin in Android.
-
-- 👨‍💻 All of my projects are available [here](https://github.com/MuhdTaha?tab=repositories).
+- 📱Currently working on [Chatterbox AI](https://github.com/MuhdTaha/ChatterboxAI) - a AI-powered chatbot web application made using MongoDB, Express.js, React.js, and Node.js.
+  
+- 👨‍💻 Check out my personal portfolio web application [here](https://muhdtaha.github.io/).
 
 - 📫 How to reach me: **muhd.taha@outlook.com**
 
