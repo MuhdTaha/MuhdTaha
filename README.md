@@ -4,11 +4,11 @@
 <h3 align="center"> Computer Science undergraduate and Developer seeking to expand my skills and contribute to innovative projects.</h3>
 <img align="right" alt="Coding" width="400" src="https://media3.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif?cid=ecf05e476megqo3018yis03d6bwanhbvapevwa48ps97n921&ep=v1_gifs_search&rid=giphy.gif&ct=g">
 
-- 🎓 CS-SWE Undergraduate at University of Illinois at Chicago
+- 🎓 CS-SWE Undergraduate at University of Illinois Chicago
 
 - 🌱 I’m currently learning **Fullstack Web Development using DevOps and Cloud Tools**
 
-- 📱Currently working on [Chatterbox AI](https://github.com/MuhdTaha/ChatterboxAI) - a AI-powered chatbot web application made using MongoDB, Express.js, React.js, and Node.js.
+- 📱Currently working on [Generative AI Specialist](https://github.com/MuhdTaha/Generative_AI) — a comprehensive repository covering **5 hands-on projects** that explore real-world applications of Generative AI, GraphRAG, LangGraph, and LangChain.  
   
 - 👨‍💻 Check out my personal portfolio web application [here](https://muhdtaha.github.io/).
 
