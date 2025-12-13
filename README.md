@@ -6,7 +6,7 @@
 # 💫 About Me:
 🎓 **CS-SWE Undergrad** @ UIC (Graduating December 2025)<br>
 🌐 **Full-stack developer** focused on modern web and mobile technologies<br>
-🤖 Currently developing **Generative AI projects** using LangChain, LangGraph, and RAG pipelines<br>
+🤖 Currently developing **CareerPilot** using Google Agent Development Kit with FastAPI<br>
 💼 Actively seeking **Software Engineering / AI Engineering internships and full-time roles**<br>
 📫 Reach me at **muhd.taha@outlook.com**<br>
 🔗 Connect with me on **LinkedIn**: https://linkedin.com/in/muhdtaha<br>
