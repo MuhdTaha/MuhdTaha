@@ -4,12 +4,18 @@
 <h3 align="center"> Computer Science undergraduate and Developer seeking to expand my skills and contribute to innovative projects.</h3>
 
 # 💫 About Me:
-🎓 **CS-SWE Undergrad** @ UIC (Graduating December 2025)<br>
-🌐 **Full-stack developer** focused on modern web and mobile technologies<br>
-🤖 Currently developing **CareerPilot** using Google Agent Development Kit with FastAPI<br>
+🎓 Recent **CS-SWE Graduate** from UIC<br>
+
+🌐 **Software Developer** focused on building robust and scalable modern web and mobile software solutions.<br>
+
+🤖 Currently developing [**IncidentFlow**](https://github.com/MuhdTaha/Incident-Flow) - A full-stack Internal Incident Management System that models real-world incident workflows.<br>
+
 💼 Actively seeking **Software Engineering / AI Engineering internships and full-time roles**<br>
+
 📫 Reach me at **muhd.taha@outlook.com**<br>
+
 🔗 Connect with me on **LinkedIn**: https://linkedin.com/in/muhdtaha<br>
+
 🌍 Fun fact: I’ve lived in **5 different countries**, giving me a global perspective and adaptability.
 
 
